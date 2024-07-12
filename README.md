@@ -14,6 +14,7 @@ To ensure a positive experience for everybody, you agree to:
 - Follow Discord Guidelines: Follow Discord’s Terms of Service and Community Guidelines at all times.
 - Provide Accuracte Information: Make sure that information provided to the bot is accurate and up-to-date.
 - Use Features Appropriately: Use features of the bot for their intended purpose and in a way that is fair and respectful to all users.
+- Have your partnership channel accessible to all verified members of your server.
 
 ## Prohibited Activities
 
@@ -35,6 +36,7 @@ We do not guarantee that the bot will be free from errors, uninterrupted, or mee
 ## Modifications to Terms
 
 We may modify these terms at any time. Your continued use of the bot after changes constitutes acceptance of the new terms.
+For important changes, we will notify you in the offical discord server (https://discord.gg/ctEwk7bsh9)
 
 ## Contacting
 
