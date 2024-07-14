@@ -36,7 +36,7 @@ We do not guarantee that the bot will be free from errors, uninterrupted, or mee
 ## Modifications to Terms
 
 We may modify these terms at any time. Your continued use of the bot after changes constitutes acceptance of the new terms.
-For important changes, we will notify you in the offical discord server (https://discord.gg/ctEwk7bsh9)
+For important changes, we will send an announcement in the offical discord server (https://discord.gg/ctEwk7bsh9) as well as on top.gg (https://top.gg/bot/1260465141879672883).
 
 ## Contacting
 
