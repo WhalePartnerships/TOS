@@ -1,4 +1,4 @@
-# Whale Partnerships TOS
+# Whale Partnerships ToS
 
 ## Acceptance of Terms
 
