@@ -64,7 +64,7 @@ This Discord bot uses third-party libraries and models that are licensed under v
 - **[paraphrase-MiniLM-L3-v2](https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L3-v2)** (Apache License 2.0)
   - **Description**: A pre-trained sentence-transformer model.
   - **License**: [Apache License 2.0](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/blob/main/LICENSE)
-  - **Source**: [Hugging Face Model Hub](sentence-transformers/paraphrase-MiniLM-L3-v2)
+  - **Source**: [Hugging Face Model Hub](https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L3-v2)
 
 #### Full Text of Licenses
 
