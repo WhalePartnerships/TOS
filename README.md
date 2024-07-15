@@ -38,6 +38,41 @@ We do not guarantee that the bot will be free from errors, uninterrupted, or mee
 We may modify these terms at any time. Your continued use of the bot after changes constitutes acceptance of the new terms.
 For important changes, we will send an announcement in the offical discord server (https://discord.gg/ctEwk7bsh9) as well as on top.gg (https://top.gg/bot/1260465141879672883).
 
+## License Information
+
+### Third-Party Libraries
+
+This Discord bot uses third-party libraries and models that are licensed under various open-source licenses. Below you will find information about these licenses and the libraries used in the bot.
+
+#### Libraries and Models Used
+
+- **[sentence-transformers](https://github.com/UKPLab/sentence-transformers)** (Apache License 2.0)
+  - **Description**: A library for sentence embeddings and similarity analysis.
+  - **License**: [Apache License 2.0](https://github.com/UKPLab/sentence-transformers/blob/main/LICENSE)
+  - **Source**: [GitHub Repository](https://github.com/UKPLab/sentence-transformers)
+
+- **[discord.py](https://github.com/Rapptz/discord.py)** (MIT License)
+  - **Description**: A Python wrapper for the Discord API.
+  - **License**: [MIT License](https://github.com/Rapptz/discord.py/blob/main/LICENSE)
+  - **Source**: [GitHub Repository](https://github.com/Rapptz/discord.py)
+
+- **[aioredis](https://github.com/aio-libs/aioredis)** (MIT License)
+  - **Description**: An asyncio (async/await) Redis client.
+  - **License**: [MIT License](https://github.com/aio-libs/aioredis/blob/main/LICENSE)
+  - **Source**: [GitHub Repository](https://github.com/aio-libs/aioredis)
+
+- **[all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)** (Apache License 2.0)
+  - **Description**: A pre-trained sentence-transformer model for semantic similarity.
+  - **License**: [Apache License 2.0](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/blob/main/LICENSE)
+  - **Source**: [Hugging Face Model Hub](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
+
+#### Full Text of Licenses
+
+You can view the full text of the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0) and the [MIT License](https://opensource.org/licenses/MIT) at these links:
+
+- [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+- [MIT License](https://opensource.org/licenses/MIT)
+
 ## Contacting
 
 For any questions or concerns, please contact us at the official discord server (https://discord.gg/ctEwk7bsh9)
