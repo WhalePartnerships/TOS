@@ -10,6 +10,7 @@ If you do not agree, do not use the bot.
 ## Punishments
 
 If you break the ToS, you may be given a warning to fix it within a certain amount of time. Failure to do so will result in the bots removal from your server. **Please note that you are responsible for managing your subscription and we are not responsible for any refunds or adjustments related to your subscription if the bot is removed from your server.**
+If the bot has been banned from your server, you may make an appeal in the [offical support server](https://discord.gg/ctEwk7bsh9)
 
 ## User responsibilities
 
@@ -42,7 +43,7 @@ We do not guarantee that the bot will be free from errors, uninterrupted, or mee
 ## Modifications to Terms
 
 We may modify these terms at any time. Your continued use of the bot after changes constitutes acceptance of the new terms.
-For important changes, we will send an announcement in the offical discord server (https://discord.gg/ctEwk7bsh9) as well as on top.gg (https://top.gg/bot/1260465141879672883).
+For important changes, we will send an announcement in the [offical discord server](https://discord.gg/ctEwk7bsh9) as well as on [top.gg](https://top.gg/bot/1260465141879672883).
 
 ## License Information
 
@@ -81,7 +82,7 @@ You can view the full text of the [Apache License 2.0](http://www.apache.org/lic
 
 ## Contacting
 
-For any questions or concerns, please contact us at the official discord server (https://discord.gg/ctEwk7bsh9)
+For any questions or concerns, please contact us in the [official support server](https://discord.gg/ctEwk7bsh9)
 
 
 
