@@ -7,6 +7,10 @@ The bot can be removed at any time from your server if you violate these Terms o
 Through inviting the bot, you agree to share data as described in the privacy policy (https://github.com/WhalePartnerships/Privacy-Policy).
 If you do not agree, do not use the bot.
 
+## Punishments
+
+If you break the ToS, you may be given a warning to fix it within a certain amount of time. Failure to do so will result in the bots removal from your server. **Please note that you are responsible for managing your subscription and we are not responsible for any refunds or adjustments related to your subscription if the bot is removed from your server.**
+
 ## User responsibilities
 
 To ensure a positive experience for everybody, you agree to:
@@ -15,7 +19,8 @@ To ensure a positive experience for everybody, you agree to:
 - Provide Accuracte Information: Make sure that information provided to the bot is accurate and up-to-date.
 - Use Features Appropriately: Use features of the bot for their intended purpose and in a way that is fair and respectful to all users.
 - Have your partnership channel accessible to all verified members of your server.
-- You are allowed to advertise NSFW (Not safe for work) servers as long as you do not include NSFW content in your ads, such as images, server icons, or NSFW words. Additionally, you must make it very clear in your ad that the server is NSFW.
+- Have an Appropriate Server Ad: Do not put innapropriate content in your partnership ads. This includes but is not limited to profanity, racism, threats, private information, and pornography.
+- Provide a notice in your ad if the server contains any NSFW (Not safe for work) content.
 
 ## Prohibited Activities
 
