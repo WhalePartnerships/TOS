@@ -4,7 +4,7 @@
 
 By inviting Whale Partnerships to your discord server, you agree to abide by these Terms of Service.
 The bot can be removed at any time from your server if you violate these Terms of Service.
-Through inviting the bot, you agree to share data as described in the privacy policy (https://github.com/WhalePartnerships/Privacy-Policy).
+Through inviting the bot, you agree to share data as described in the [privacy policy](https://github.com/WhalePartnerships/Privacy-Policy).
 If you do not agree, do not use the bot.
 
 ## Punishments
