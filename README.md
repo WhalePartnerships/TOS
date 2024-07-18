@@ -15,7 +15,7 @@ To ensure a positive experience for everybody, you agree to:
 - Provide Accuracte Information: Make sure that information provided to the bot is accurate and up-to-date.
 - Use Features Appropriately: Use features of the bot for their intended purpose and in a way that is fair and respectful to all users.
 - Have your partnership channel accessible to all verified members of your server.
-- Do not include NSFW (Not safe for work) content in your ads, such as images, server icons, or NSFW words. Additionally, if your server has NSFW content inside it, please make that very clear in your ad.
+- You are allowed to advertise NSFW (Not safe for work) servers as long as you do not include NSFW content in your ads, such as images, server icons, or NSFW words. Additionally, you must make it very clear in your ad that the server is NSFW.
 
 ## Prohibited Activities
 
