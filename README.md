@@ -21,7 +21,8 @@ To ensure a positive experience for everybody, you agree to:
 - Use Features Appropriately: Use features of the bot for their intended purpose and in a way that is fair and respectful to all users.
 - Have your partnership channel accessible to all verified members of your server.
 - Have an Appropriate Server Ad: Do not put innapropriate content in your partnership ads. This includes but is not limited to profanity, racism, threats, private information, and pornography.
-- Provide a notice in your ad if the server contains any NSFW (Not safe for work) content.
+- Provide a notice in your ad if the server contains any of the content mentioned above.
+- Follow Partnership Rules: Do not delete other people's ads from your server. Do not include hidden pings in your advertisement. 
 
 ## Prohibited Activities
 
