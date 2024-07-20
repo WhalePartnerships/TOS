@@ -73,13 +73,13 @@ This Discord bot uses third-party libraries and models that are licensed under v
 
 1. **[Top.gg API](https://top.gg/api/docs)**
    - **Description**: An API for accessing features related to Top.gg, including bot statistics, user feedback, and more.
-   - **Terms of Service**: [Top.gg Terms of Service](https://top.gg/terms)
-   - **Documentation**: [Top.gg API Documentation](https://top.gg/api/docs)
+   - **Terms of Service**: [Top.gg Terms of Service](https://top.gg/tos)
+   - **Documentation**: [Top.gg API Documentation](https://docs.top.gg/docs/)
 
 2. **[Hugging Face API](https://huggingface.co/docs/api-inference/detailed)** 
    - **Description**: An API for accessing machine learning models and transformers from Hugging Face.
-   - **Terms of Service**: [Hugging Face Terms of Service](https://huggingface.co/terms)
-   - **Documentation**: [Hugging Face API Documentation](https://huggingface.co/docs/api-inference/detailed)
+   - **Terms of Service**: [Hugging Face Terms of Service](https://huggingface.co/terms-of-service)
+   - **Documentation**: [Hugging Face API Documentation](https://huggingface.co/docs)
 
 ---
 #### Full Text of Licenses
