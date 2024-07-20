@@ -54,11 +54,6 @@ This Discord bot uses third-party libraries and models that are licensed under v
 
 #### Libraries and Models Used
 
-- **[sentence-transformers](https://github.com/UKPLab/sentence-transformers)** (Apache License 2.0)
-  - **Description**: A library for sentence embeddings and similarity analysis.
-  - **License**: [Apache License 2.0](https://github.com/UKPLab/sentence-transformers/blob/main/LICENSE)
-  - **Source**: [GitHub Repository](https://github.com/UKPLab/sentence-transformers)
-
 - **[discord.py](https://github.com/Rapptz/discord.py)** (MIT License)
   - **Description**: A Python wrapper for the Discord API.
   - **License**: [MIT License](https://github.com/Rapptz/discord.py/blob/main/LICENSE)
@@ -74,6 +69,19 @@ This Discord bot uses third-party libraries and models that are licensed under v
   - **License**: [Apache License 2.0](https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md)
   - **Source**: [Hugging Face Model Hub](https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L3-v2)
 
+#### APIs Used
+
+1. **[Top.gg API](https://top.gg/api/docs)**
+   - **Description**: An API for accessing features related to Top.gg, including bot statistics, user feedback, and more.
+   - **Terms of Service**: [Top.gg Terms of Service](https://top.gg/terms)
+   - **Documentation**: [Top.gg API Documentation](https://top.gg/api/docs)
+
+2. **[Hugging Face API](https://huggingface.co/docs/api-inference/detailed)** 
+   - **Description**: An API for accessing machine learning models and transformers from Hugging Face.
+   - **Terms of Service**: [Hugging Face Terms of Service](https://huggingface.co/terms)
+   - **Documentation**: [Hugging Face API Documentation](https://huggingface.co/docs/api-inference/detailed)
+
+---
 #### Full Text of Licenses
 
 You can view the full text of the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0) and the [MIT License](https://opensource.org/licenses/MIT) at these links:
