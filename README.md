@@ -9,8 +9,8 @@ If you do not agree, do not use the bot.
 
 ## Punishments
 
-If you break the ToS, you may be given a warning to fix it within a certain amount of time. Failure to do so will result in the bots removal from your server. **Please note that you are responsible for managing your subscription and we are not responsible for any refunds or adjustments related to your subscription if the bot is removed from your server.**
-If the bot has been banned from your server, you may make an appeal in the [offical support server](https://discord.gg/ctEwk7bsh9)
+If you break the ToS, you may be given a warning to fix it within a certain amount of time. Failure to do so will result in the bots removal from your server. If the violation is severe enough, you may be banned without warning. **Please note that you are responsible for managing your subscription and we are not responsible for any refunds or adjustments related to your subscription if the bot is removed from your server. However, the subscription will be canceled.**
+If the bot has been banned from your server, you may make an appeal in the [offical support server](https://discord.gg/ctEwk7bsh9).
 
 ## User responsibilities
 
