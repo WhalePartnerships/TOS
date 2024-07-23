@@ -48,9 +48,8 @@ For important changes, we will send an announcement in the [offical discord serv
 
 ## License Information
 
-### Third-Party Libraries
-
-This Discord bot uses third-party libraries and models that are licensed under various open-source licenses. Below you will find information about these licenses and the libraries used in the bot.
+This Discord bot uses third-party libraries, models, and APIs that are licensed under various open-source licenses. 
+Below you will find information about these licenses and the libraries, models, and APIs used in the bot.
 
 #### Libraries and Models Used
 
